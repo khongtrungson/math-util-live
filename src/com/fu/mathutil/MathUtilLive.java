@@ -17,6 +17,8 @@ public class MathUtilLive {
         // TODO code application logic here
         long result = MathUtil.getAnFactorial(-6);
         System.out.println("factorial is : " + result);
+        System.out.println("factorial is : " + result);
+        System.out.println("factorial is : " + result);
     }
 
 }
